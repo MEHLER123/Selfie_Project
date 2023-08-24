@@ -1,0 +1,50 @@
+.copyright{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: coral;
+    }
+
+    h1{ 
+        
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-style: oblique;
+       font-weight: 700;
+    }
+
+    h4{
+       
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: 800 ;
+      font-style: oblique ;
+     }
+
+     #camera{
+
+        width: 500px;
+        height: 400px;
+        border:1px solid rgb(rgb(160, 253, 145), rgb(240, 75, 75), rgb(12, 237, 139));
+      }
+
+    img{ 
+
+        width: 37%;
+        border-radius: 4px;
+        padding: 10px;
+        box-shadow: 0 6px 8px 0 black;
+    }
+    img:hover{ 
+        border-radius: 140px;
+        
+    }
+    body{ 
+        background-color: burlywood;
+    }
+
+    .result-row{
+        display: inline;
+        padding: 10px;
+        
+     }
+      
